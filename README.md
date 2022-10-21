@@ -1,2 +1,2 @@
 # Yibtag
-![youtube](image.png)
+![youtube](./assets/yibtag.png)
