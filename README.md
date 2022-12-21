@@ -1,2 +1,1 @@
-# Yibtag
-![youtube](./assets/youtube.png)
+# https://yibtag.github.io/
