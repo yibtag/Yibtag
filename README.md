@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yibtag&label=Profile%20views&color=0e75b6&style=flat" alt="yibtag" /> </p>
 
-- 🔭 I’m currently working on **OverlayWidgets**
+- 🔭 I’m currently working on **yibtag_discord_presence**
 
 - 🌱 I’m currently learning **rust, ida, cheatengine**
 
