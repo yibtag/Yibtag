@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **yibtag_discord_presence**
 
-- 🌱 I’m currently learning **rust, ida, cheatengine**
+- 🌱 I’m currently learning **Game dev, Unity**
 
 - 👯 I’m looking to collaborate on **Anything**
 
