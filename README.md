@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yibtag&label=Profile%20views&color=0e75b6&style=flat" alt="yibtag" /> </p>
 
-- 🔭 I’m currently working o
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **reverse enginering**
 
