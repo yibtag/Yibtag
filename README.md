@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yibtag&label=Profile%20views&color=0e75b6&style=flat" alt="yibtag" /> </p>
 
-- 🔭 I’m currently working on **yibtag_discord_presence**
+- 🔭 I’m currently working o
 
-- 🌱 I’m currently learning **Game dev, Unity**
+- 🌱 I’m currently learning **reverse enginering**
 
 - 👯 I’m looking to collaborate on **Anything**
 
