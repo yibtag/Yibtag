@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on
 
-- 🌱 I’m currently learning **reverse enginering**
-
-- 👯 I’m looking to collaborate on **Anything**
+- 🌱 I’m currently learning **3D graphics**
 
 - 🤝 I’m looking for help with **Anything**
 
