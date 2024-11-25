@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yibtag&label=Profile%20views&color=0e75b6&style=flat" alt="yibtag" /> </p>
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on private
 
 - 🌱 I’m currently learning **3D graphics**
-
-- 🤝 I’m looking for help with **Anything**
 
 - 💬 Ask me about **c, c++, c#, java, javascript or python related questions**
 
